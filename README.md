@@ -1,8 +1,12 @@
+![logo](./assets/logo.jpeg)
+
 # Apertre React Project
 
 ## Overview
 
-This repository contains a React project called "Apertre React Project," which aims to create an Email Web Application. The project is based on a design provided in a Figma file, which can be accessed [here](https://www.figma.com/community/file/1198411980891297181).
+This repository contains a React project called "Apertre React Project," which aims to create an Email Web Application named SnapSend. The project is based on a design provided in a Figma file, which can be accessed [here](https://www.figma.com/file/0hCMozlOme5gQibhakvTn3/SnapSend?type=design&node-id=3%3A573&mode=design&t=BtBkNAbYaVuZn1YK-1).
+
+In this project we will be building a full stack Email App named SnapSend using the MERN Stack.
 
 ## Description
 
